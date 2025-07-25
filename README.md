@@ -40,5 +40,5 @@
 ---
 
 <div align="right">
-  <img src="[https://media.giphy.com/media/RbDKxw5WpV4ExKqgpm/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp2dGl4dTd5bTY5ZjI2bTQ1MDdtbHNxd2VpMHhhNHA2ZjR6aGt4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif)" width="180" alt="Gatinho Programando" />
+ <img src="https://media.giphy.com/media/RbDKxw5WpV4ExKqgpm/giphy.gif" width="180" alt="Gatinho Programando"/>(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp2dGl4dTd5bTY5ZjI2bTQ1MDdtbHNxd2VpMHhhNHA2ZjR6aGt4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif)" width="180" alt="Gatinho Programando" />
 </div>
