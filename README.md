@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Gabriel Costa</h1>
 
-<!--
-**gabriielcst/gabriielcst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="left">
+  <ul>
+    <li>📈 Focado em dados, IA e suas aplicações</li>
+    <li>🚀 Dedicado a explorar o universo de Python, Java e o poder dos dados</li>
+    <li>🌱 Atualmente aprofundando conhecimentos em Machine Learning, Análise de Dados e SQL</li>
+    <li>💡 Sempre em busca de novos desafios e oportunidades de aprendizado!</li>
+  </ul>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 align="center">🔗 Conecte-se Comigo</h2>
+<p align="center">
+  <a href="SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  </p>
+
+---
+
+<h2 align="center">🛠️ Minhas Habilidades</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-2A6278?style=for-the-badge&logo=databricks&logoColor=white" alt="Análise de Dados" />
+  
+  </p>
+
+---
+
+<div align="right">
+  <img src="[https://media.giphy.com/media/RbDKxw5WpV4ExKqgpm/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp2dGl4dTd5bTY5ZjI2bTQ1MDdtbHNxd2VpMHhhNHA2ZjR6aGt4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif)" width="180" alt="Gatinho Programando" />
+</div>
