@@ -39,6 +39,3 @@
 
 ---
 
-<div align="right">
-  <img src="https://media.giphy.com/media/RbDKxw5WpV4ExKqgpm/giphy.gif" width="180" alt="Gatinho Programando" />
-</div>
