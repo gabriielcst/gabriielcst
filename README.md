@@ -1,3 +1,7 @@
+<div style="float: right;">
+  <img src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" width="180" alt="GIF de IA" />
+</div>
+
 <h1 align="center">👋 Olá, eu sou o Gabriel Costa</h1>
 
 ---
@@ -36,9 +40,3 @@
   <img src="https://img.shields.io/badge/Data%20Analysis-2A6278?style=for-the-badge&logo=databricks&logoColor=white" alt="Análise de Dados" />
   
 </p>
-
----
-
-<div align="right">
-  <img src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" />
-</div>
