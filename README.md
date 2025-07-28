@@ -1,8 +1,8 @@
-<img align="right" width="180" src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" alt="GIF de IA" />
+<img align="right" width="240" src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" alt="GIF de IA" />
 
-<h1 align="center">👋 Olá, eu sou o Gabriel Costa</h1>
+### 👋 Olá, eu sou o Gabriel Costa
 
-<p align="left">
+<p>
   <ul>
     <li>📈 Focado em dados, IA e suas aplicações</li>
     <li>🚀 Dedicado a explorar o universo de Python, Java e o poder dos dados</li>
@@ -11,8 +11,11 @@
   </ul>
 </p>
 
-<br><br> <h2 align="center">🔗 Conecte-se Comigo</h2>
-<p align="center">
+<br><br>
+
+### 🔗 Conecte-se Comigo
+
+
   <a href="SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -21,10 +24,13 @@
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-</p>
 
-<br><br> <h2 align="center">🛠️ Minhas Habilidades</h2>
-<p align="center">
+
+<br><br>
+
+### 🛠️ Minhas Habilidades
+
+<p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
