@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  </p>
+</p>
 
 ---
 
@@ -35,7 +35,8 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Data%20Analysis-2A6278?style=for-the-badge&logo=databricks&logoColor=white" alt="Análise de Dados" />
   
-  </p>
+</p>
 
 ---
 
+<div align="right">
