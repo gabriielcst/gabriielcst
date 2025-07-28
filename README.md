@@ -4,10 +4,8 @@
 
 <p>
   <ul>
-    <li>📈 Focado em dados, IA e suas aplicações</li>
-    <li>🚀 Dedicado a explorar o universo de Python, Java e o poder dos dados</li>
-    <li>🌱 Atualmente aprofundando conhecimentos em Machine Learning, Análise de Dados e SQL</li>
-    <li>💡 Sempre em busca de novos desafios e oportunidades de aprendizado!</li>
+    <li>🎓Estudante de CiÊncia da Computação e Ciência de Dados</li>
+    <li>🚀Atualmente aprofundando conhecimentos em Machine Learning, Análise de Dados e SQL</li>
   </ul>
 </p>
 
