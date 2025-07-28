@@ -16,7 +16,7 @@
 ### 🔗 Minhas Redes
 
 
-  <a href="SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-5b52a035a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
