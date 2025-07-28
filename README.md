@@ -1,7 +1,6 @@
-<img align="right" width="220" src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" alt="GIF de IA" />
+<img align="right" width="180" src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" alt="GIF de IA" />
 
 <h1 align="center">👋 Olá, eu sou o Gabriel Costa</h1>
-
 
 <p align="left">
   <ul>
@@ -12,7 +11,7 @@
   </ul>
 </p>
 
-<div style="clear: both;"></div> --- <h2 align="center">🔗 Conecte-se Comigo</h2>
+<br><br> <h2 align="center">🔗 Conecte-se Comigo</h2>
 <p align="center">
   <a href="SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,8 +23,7 @@
   
 </p>
 
-
-<h2 align="center">🛠️ Minhas Habilidades</h2>
+<br><br> <h2 align="center">🛠️ Minhas Habilidades</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
