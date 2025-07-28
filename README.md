@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:ccgabrielcostta@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
