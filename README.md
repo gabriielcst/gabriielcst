@@ -1,4 +1,4 @@
-<img align="right" width="250" src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" alt="GIF de IA" />
+<img align="right" width="240" src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" alt="GIF de IA" />
 
 ### 👋 Olá, eu sou o Gabriel Costa
 
