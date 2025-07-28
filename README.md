@@ -9,7 +9,6 @@
   </ul>
 </p>
 
-<br>
 
 ### 🔗 Minhas Redes
 
@@ -22,7 +21,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-<br>
 
 ### 🛠️ Minhas Habilidades
 
