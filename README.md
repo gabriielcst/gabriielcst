@@ -13,7 +13,7 @@
 
 <br><br>
 
-### 🔗 Conecte-se Comigo
+### 🔗 Minhas Redes
 
 
   <a href="SEU_LINKEDIN_AQUI" target="_blank">
