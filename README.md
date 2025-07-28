@@ -40,5 +40,5 @@
 ---
 
 <div align="right">
-  <img src="https://tenor.com/uEUpsi04Nz9.gif" />
+  <img src="https://media.tenor.com/7rp7aAKf52cAAAAj/ai-grok.gif" />
 </div>
