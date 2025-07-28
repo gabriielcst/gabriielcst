@@ -40,5 +40,5 @@
 ---
 
 <div align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ0ZDd2OWFzeHF1N2Q4dWMyYmNyMjk3NGk1d2h6d2pscjRmNnkybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="180" alt="GIF de Programação" />
+  <img src="https://tenor.com/uEUpsi04Nz9.gif" />
 </div>
